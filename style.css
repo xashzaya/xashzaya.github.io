@@ -29,3 +29,7 @@ th, td {
     text-align: left;
     color: #ffffff;
 }
+a {
+    color:rgb(157, 186, 255);
+    text-decoration: underline;
+}
